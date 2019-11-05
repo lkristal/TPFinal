@@ -10,7 +10,7 @@ namespace TPFinal.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Mensaje = "Hola";
+            ViewBag.Mensaje = "Hola Mundo";
             return View();
         }
 
